@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TickTock</string>
+    <string name="Description">When you use this approach, it becomes your responsibility to ensure that critical parts of your app\'s UI (for example, the built-in controls in a Maps application) don\'t end up getting covered by system bars. This could make your app unusable. In most cases you can handle this by adding the android:fitsSystemWindows attribute to your XML layout file, set to true. This adjusts the padding of the parent ViewGroup to leave space for the system windows. This is sufficient for most applications.</string>
+</resources>
