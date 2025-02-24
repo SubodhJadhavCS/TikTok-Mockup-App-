@@ -26,7 +26,7 @@ Clone the repository:
 sh
 Copy
 Edit
-git clone 
+git clone https://github.com/SubodhJadhavCS/TikTok-Mockup-App-.git
 Open the project in Android Studio.
 Place your video files inside the assets/ folder.
 Build and run on an Android device or emulator.
